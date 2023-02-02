@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload_MarkupCompile.cache
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\bin\Debug\sum_numbers_overload.exe.config
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\bin\Debug\sum_numbers_overload.exe
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\bin\Debug\sum_numbers_overload.pdb
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload_MarkupCompile.lref
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload.g.resources
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload.Properties.Resources.resources
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload.exe
+C:\Users\Админ\source\repos\sum_numbers_overload\sum_numbers_overload\obj\Debug\sum_numbers_overload.pdb
